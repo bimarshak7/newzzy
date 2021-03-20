@@ -5,6 +5,9 @@
 * Front End to view News Headlines.
 
 -- Beautiful Soup
+
 -- Flask Api
+
 -- ReactJS(webpack & babel)
+
 -- React-Redux
